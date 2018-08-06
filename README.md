@@ -1,8 +1,8 @@
 # angular2-template-loader
 Chain-to loader for webpack that inlines all html and style's in angular components.
 
-[![Build Status](https://travis-ci.org/TheLarkInn/angular2-template-loader.svg?branch=master)](https://travis-ci.org/TheLarkInn/angular2-template-loader)
-[![Coverage](https://codecov.io/gh/TheLarkInn/angular2-template-loader/branch/master/graph/badge.svg)](https://codecov.io/gh/TheLarkInn/angular2-template-loader)
+[![Build Status](https://travis-ci.org/khalidhoffman/angular2-template-loader.svg?branch=master)](https://travis-ci.org/khalidhoffman/angular2-template-loader)
+[![Coverage](https://codecov.io/gh/khalidhoffman/angular2-template-loader/branch/master/graph/badge.svg)](https://codecov.io/gh/khalidhoffman/angular2-template-loader)
 [![Taylor Swift](https://img.shields.io/badge/secured%20by-taylor%20swift-brightgreen.svg)](https://twitter.com/SwiftOnSecurity)
 
 ### Quick Links
