@@ -25,9 +25,9 @@
   "author": "Sean Larkin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheLarkInn/angular2-template-loader/issues"
+    "url": "https://github.com/khalidhoffman/angular2-template-loader/issues"
   },
-  "homepage": "https://github.com/TheLarkInn/angular2-template-loader#readme",
+  "homepage": "https://github.com/khalidhoffman/angular2-template-loader#readme",
   "devDependencies": {
     "codecov": "^1.0.1",
     "istanbul": "^0.4.3",
@@ -35,6 +35,10 @@
     "should": "^9.0.0"
   },
   "dependencies": {
-    "loader-utils": "^0.2.15"
+    "ast-types": "^0.11.5",
+    "babylon": "7.0.0-beta.47",
+    "loader-utils": "^0.2.15",
+    "lodash": "^4.17.10",
+    "recast": "^0.15.3"
   }
 }
